@@ -1,6 +1,8 @@
 # HackerRank-Automated-Code-Submitter
 This Script Automates the work of code Submission of given Challenge in HackerRank
 
+NOTE : To use this Script , "PUPPETEER" must be installed.
+
 WORKING =>
             
             1. Script goes to HackerRank website and LogIn into it.
